@@ -1,0 +1,12 @@
+**part1**
+1. create interface Vehicle with method speed()
+2. add 3 types of vehicle class: Car, AirPlane, Train
+
+**part2**
+add interfaces for flying vehicles and vehicles in sea
+create methods fly and sail inside them
+
+**part3**
+create class Boat
+create class AmphibiousVehicle
+create class SpaceShip
